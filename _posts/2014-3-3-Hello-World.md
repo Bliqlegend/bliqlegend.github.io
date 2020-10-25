@@ -3,7 +3,6 @@ layout: post
 title: Year of the Fox
 published: true
 ---
-# Year of the Fox
 
 - RCE Identification and exploitation
 
